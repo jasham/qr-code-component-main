@@ -19,7 +19,7 @@ module.exports = {
       outfit: ["Outfit", "sans-serif"],
     },
     screens: {
-      xxs: "250px",
+      xxs: "270px",
       ...defaultTheme.screens,
     },
   },
